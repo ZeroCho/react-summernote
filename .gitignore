@@ -1,9 +1,7 @@
 # dependencies
 node_modules
 
-# production
-lang
-
 # misc
 .DS_Store
 npm-debug.log
+.idea
