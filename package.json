@@ -8,8 +8,7 @@
     "url": "https://github.com/Vnkitaev/react-summernote.git"
   },
   "scripts": {
-    "build": "webpack --config ./webpack.config.js",
-    "postinstall": "npm run build"
+    "build": "webpack --config ./webpack.config.js"
   },
   "keywords": [
     "summernote",
